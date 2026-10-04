@@ -1,16 +1,7 @@
 import pandas as pd
 
 data = {
-    "Name": [
-        "Alice",
-        "Bob",
-        "Charlie",
-        "David",
-        "Eva",
-        "Frank",
-        "Grace",
-        "Hannah",
-    ],
+    "Name": ["Alice","Bob","Charlie","David","Eva","Frank","Grace","Hannah"],
     "Department": ["CS", "ECE", "CS", "ME", "EE", "CS", "ECE", "EE"],
     "Marks": [85, 68, 92, 74, 88, 59, 78, 95],
     "Attendance": [90, 75, 82, 95, 78, 85, 92, 70],
